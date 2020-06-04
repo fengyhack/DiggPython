@@ -30,7 +30,7 @@
    conda create -n <ENV_NAME> python=<VER>
    ```
 
-   >**Create `flask` with python version `3.8` **
+   >**Create `flask` with python version `3.8`**
    >
    >```shell
    >conda create -n flask python=3.8
